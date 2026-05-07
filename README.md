@@ -8,7 +8,7 @@ Backend-focused developer building reliable systems, APIs and integrations.
 
 Currently working at **WeHandle**, with experience in scalable architectures, observability and real-world distributed systems.
 
-Interested in **AI-driven workflows that transform user intent into real-world actions**.
+Interested in **AI workflows that transform user intent into real-world actions**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-caio--vaf-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-vaf/)
 [![GitHub](https://img.shields.io/badge/GitHub-caiovaf-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/caiovaf)
