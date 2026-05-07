@@ -4,6 +4,9 @@
 
 ### Software Engineer | Java | Spring Boot | AWS | AI Agents
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-caio--vaf-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-vaf/)
+[![GitHub](https://img.shields.io/badge/GitHub-caiovaf-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/caiovaf)
+
 </div>
 
 ---
@@ -14,7 +17,7 @@
 - 🚀 I enjoy building APIs, services, and cloud-ready applications with clean code and practical architecture.
 - 🧠 Skilled with **Kafka**, **APM**, observability, relational databases, Docker, Git, and AWS-based workflows.
 - 🎨 I also work with frontend interfaces using **React**, **JavaScript**, **HTML**, and **CSS**.
-- 📫 Contact me via GitHub: [@caiovaf](https://github.com/caiovaf)
+- 📫 Find me on [LinkedIn](https://www.linkedin.com/in/caio-vaf/) or here on GitHub: [@caiovaf](https://github.com/caiovaf)
 
 ---
 
