@@ -2,103 +2,140 @@
 
 # Caio Vasconcelos
 
-### Software Engineer @ WeHandle
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=6366F1&center=true&vCenter=true&width=640&lines=Software+Engineer+%40+WeHandle;Distributed+Systems+%26+Backend+Architecture;Java+%7C+Spring+Boot+%7C+AWS+%7C+Apache+Kafka;Building+Production-Ready+Agentic+AI+Flows" alt="Typing SVG" />
+</a>
 
-Backend-focused developer building reliable systems, APIs and integrations.
+<p align="center">
+  <b>Software Engineer crafting scalable backends, event-driven architectures, and real-world AI automations.</b>
+</p>
 
-Currently working at **WeHandle**, with experience in scalable architectures, observability and real-world distributed systems.
-
-Interested in **AI workflows that transform user intent into real-world actions**.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-caio--vaf-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-vaf/)
-[![GitHub](https://img.shields.io/badge/GitHub-caiovaf-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/caiovaf)
+<!-- Minimalist Compact Nav Bar -->
+<p align="center">
+  <a href="https://caio-portfolio-delta.vercel.app/">🌐 <b>Portfolio</b></a> &nbsp;•&nbsp;
+  <a href="https://github.com/caiovwehandle">💼 <b>Enterprise GitHub</b></a> &nbsp;•&nbsp;
+  <a href="https://www.linkedin.com/in/caio-vaf/">👔 <b>LinkedIn</b></a> &nbsp;•&nbsp;
+  <a href="mailto:caiovafwork@gmail.com">✉️ <b>Email</b></a>
+</p>
 
 </div>
 
 ---
 
-## What I Build
+### 💼 Engineering Footprint & Dual Profiles
 
-- Backend systems designed for **clarity, maintainability and observability**
-- APIs and integrations that **bridge business needs with scalable architecture**
-- Distributed and asynchronous systems using messaging patterns
-- AI-powered workflows that **interpret user intent and trigger real actions**
-- Frontend interfaces with React when a simple and practical UX is needed
+To maintain strict enterprise security while fostering open-source development, my GitHub activity is distributed across two dedicated accounts:
 
----
-
-## Engineering Approach
-
-- Clean code mindset (DRY, KISS)
-- Observability-first (logs, metrics, tracing)
-- Focus on reliability in real-world systems
-- Experience debugging production issues
-- Strong interest in system design and distributed systems
+| Profile | Focus & Scope |
+| :--- | :--- |
+| **🏢 Enterprise:** [`@caiovwehandle`](https://github.com/caiovwehandle) | **Core production workload at WeHandle.** High-volume daily commits, mission-critical distributed systems, proprietary microservices, and internal architectures. |
+| **🚀 Personal Lab:** [`@caiovaf`](https://github.com/caiovaf) | **Engineering laboratory & Open Source.** System design blueprints, proof-of-concept AI agents, experiments, and technical portfolio. |
 
 ---
 
-## Tech Stack
+### 🛠️ Tech Stack & Tooling
 
-### Languages
-![Java](https://img.shields.io/badge/Java-f89820?style=for-the-badge&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=111111)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,postgres,mysql,kafka,aws,docker,react,nextjs,git&theme=dark" alt="Core Technologies" />
+</div>
 
-### Backend
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6db33f?style=for-the-badge&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-111827?style=for-the-badge)
+<br>
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb)
+<details open>
+<summary><b>Technical Breakdown</b></summary>
+<br>
 
-### Database
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479a1?style=for-the-badge&logo=mysql&logoColor=white)
+- **Backend & Core:** Java 17+, Spring Boot (Data, Security, Cloud), Node.js, Fastify, RESTful APIs, Clean Architecture.
+- **Messaging & Distributed Systems:** Apache Kafka, Asynchronous event streaming, Pub/Sub patterns, resilient retry mechanisms.
+- **Cloud & DevOps:** AWS (ECS, RDS, S3, Lambda), Docker, CI/CD pipelines, Linux environments.
+- **Persistence & Caching:** PostgreSQL, MySQL, Redis, relational database optimization.
+- **Observability:** Distributed tracing, structured logging, production APM, health check instrumentation.
+- **Frontend & Web:** TypeScript, React, Next.js, Tailwind CSS, responsive & accessible interfaces.
 
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232f3e?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ed?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white)
-
-### Messaging & Observability
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231f20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Observability](https://img.shields.io/badge/Observability-0f766e?style=for-the-badge)
+</details>
 
 ---
 
-## Projects
+### 🌟 Featured Systems & Projects
 
-### EVA — AI Voice Assistant
-AI-powered assistant that executes real-world actions (navigation, messaging, media) from voice commands.
+<table>
+  <!-- Row 1: TITAN (Proprietary Enterprise) -->
+  <tr>
+    <td colspan="2" valign="top">
+      <div align="between">
+        <h3>🛡️ TITAN — Enterprise Core Engine</h3>
+        <code>🔒 Proprietary / Closed-Source</code> • <code>WeHandle Ecosystem</code>
+      </div>
+      <p>
+        High-throughput, distributed enterprise platform engineered to automate mission-critical business workflows, manage secure multi-tenant data processing, and maintain high availability under production demand.
+      </p>
+      <ul>
+        <li><b>Architecture:</b> Event-driven microservices architecture utilizing distributed queues for decoupled, resilient job processing.</li>
+        <li><b>Engineering Focus:</b> End-to-end observability, transactional consistency, zero-downtime deployments, and strict operational SLAs.</li>
+      </ul>
+      <p>
+        <code>Java</code> • <code>Spring Boot</code> • <code>Apache Kafka</code> • <code>AWS</code> • <code>PostgreSQL</code> • <code>Docker</code>
+      </p>
+      <p><i>*Source code and proprietary operational schemas are protected under enterprise NDA.</i></p>
+    </td>
+  </tr>
 
-- Backend with Java + Spring Boot  
-- LLM-based intent parsing  
-- Integration with external apps (Waze, messaging, media)  
-- Automation via iOS Shortcuts  
-
-Focus: turning **user intent into real-world execution**
+  <!-- Row 2: EVA & FLAP -->
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 E.V.A — Drive Copilot</h3>
+      <code>Open Source</code>
+      <p>
+        Voice-first intelligent automotive copilot designed to parse natural language intent via LLMs and dispatch real-time actions across navigation (Waze), messaging, and media automations.
+      </p>
+      <p>
+        <code>Java</code> • <code>Spring Boot</code> • <code>Fastify</code> • <code>LLM Parsing</code> • <code>React</code>
+      </p>
+      <p align="center">
+        <a href="https://github.com/caiovaf/E.V.A-DriveCopilot"><b>Explore Repository ➔</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📋 Flap — Task Flow</h3>
+      <code>Open Source</code>
+      <p>
+        Modern Kanban task and workflow management suite built for agile teams, featuring real-time status transitions, user permissions, analytics dashboards, and responsive UX.
+      </p>
+      <p>
+        <code>Next.js</code> • <code>React</code> • <code>TypeScript</code> • <code>Tailwind CSS</code> • <code>REST API</code>
+      </p>
+      <p align="center">
+        <a href="https://github.com/caiovaf/Task_Manager"><b>Explore Repository ➔</b></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### Flap — Task Management (Kanban Frontend)
-Frontend application for a Kanban-based task management system.
+### 📊 Activity & Production Contribution Streaks
 
-- Built with Next.js and React  
-- Task organization with lists and cards (Kanban)  
-- Collaboration features (comments, members, attachments)  
-- Admin features (users, roles, clients)  
-- Dashboard for data visualization  
+<div align="center">
 
-Focus: structured UI for productivity and team workflows
+#### 🏢 Enterprise Production Activity ([@caiovwehandle](https://github.com/caiovwehandle))
+<img src="https://streak-stats.demolab.com/?user=caiovwehandle&theme=tokyonight&hide_border=true&background=0d1117" alt="Enterprise Contribution Streak" />
+
+<br><br>
+
+#### 🚀 Personal & OSS Lab ([@caiovaf](https://github.com/caiovaf))
+<img src="https://streak-stats.demolab.com/?user=caiovaf&theme=tokyonight&hide_border=true&background=0d1117" alt="Personal Contribution Streak" />
+
+</div>
 
 ---
 
-### Harmony — Social Network UI
-Website simulating a social network with a modular frontend structure.
+### 📬 Connect & Collaborate
 
-- Built with HTML, CSS and JavaScript  
-- Component-based organization (modular structure)  
-- Focus on UI structure and front-end architecture  
+- 💼 **Available for:** High-impact backend engineering, distributed system design, and AI automation consulting.
+- 🌐 **Live Portfolio:** [caio-portfolio-delta.vercel.app](https://caio-portfolio-delta.vercel.app/)
+- 📧 **Direct Inquiry:** [caiovafwork@gmail.com](mailto:caiovafwork@gmail.com)
+- 📍 **Location:** Aracaju, Brazil *(Available for global remote contracts)*
 
-Focus: clean organization and front-end fundamentals
+<div align="center">
+  <sub>Engineered with precision, reliability, and clear business intent.</sub>
+</div>
