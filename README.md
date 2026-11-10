@@ -128,6 +128,55 @@ To maintain strict enterprise security while fostering open-source development, 
       </p>
     </td>
   </tr>
+
+  <!-- Row 4: Agentic Orchestrator & Enterprise RAG -->
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 Agentic Action Orchestrator</h3>
+      <code>Open Source</code>
+      <p>
+        Autonomous enterprise workflow orchestrator built with Spring AI. Decomposes natural language commands into deterministic tool calling, API transactions, and immutable audit trails.
+      </p>
+      <p>
+        <code>Java 21</code> • <code>Spring Boot 3.3</code> • <code>Spring AI</code> • <code>Function Calling</code> • <code>OpenAI</code>
+      </p>
+      <p align="center">
+        <a href="https://github.com/caiovaf/agentic-action-orchestrator"><b>Explore Repository ➔</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔍 Enterprise RAG with PgVector</h3>
+      <code>Open Source</code>
+      <p>
+        Semantic search and grounded question-answering platform. Features document chunking, HNSW vector indexing, and cosine distance search inside PostgreSQL.
+      </p>
+      <p>
+        <code>Java 21</code> • <code>Spring AI</code> • <code>PostgreSQL pgvector</code> • <code>Embeddings</code> • <code>Docker</code>
+      </p>
+      <p align="center">
+        <a href="https://github.com/caiovaf/enterprise-rag-pgvector"><b>Explore Repository ➔</b></a>
+      </p>
+    </td>
+  </tr>
+
+  <!-- Row 5: Resilient Notification Hub -->
+  <tr>
+    <td colspan="2" valign="top">
+      <div align="between">
+        <h3>🔔 Resilient Notification Hub</h3>
+        <code>Open Source</code> • <code>High-Availability Dispatcher</code>
+      </div>
+      <p>
+        Multi-channel notification engine (Email, SMS, Push, Webhooks) engineered with Redis Token Bucket rate limiting and Resilience4j circuit breaker failover to secondary hot backups.
+      </p>
+      <p>
+        <code>Java 21</code> • <code>Spring Boot 3.3</code> • <code>Resilience4j</code> • <code>Redis Rate Limiter</code> • <code>AWS SES / Fallback</code> • <code>Docker</code>
+      </p>
+      <p align="center">
+        <a href="https://github.com/caiovaf/resilient-notification-hub"><b>Explore Repository ➔</b></a>
+      </p>
+    </td>
+  </tr>
 </table>
 
 ---
