@@ -59,26 +59,7 @@ To maintain strict enterprise security while fostering open-source development, 
 ### 🌟 Featured Systems & Projects
 
 <table>
-  <!-- Row 1: Distributed Event Pipeline (OSS Flagship) -->
-  <tr>
-    <td colspan="2" valign="top">
-      <div align="between">
-        <h3>⚡ Distributed Event Pipeline</h3>
-        <code>Open Source Flagship</code> • <code>Java 21 & Apache Kafka</code>
-      </div>
-      <p>
-        Production-grade, event-driven transactional processing engine engineered to process asynchronous orders at scale with zero data loss. Implements atomic idempotency via Redis, Dead Letter Topic (DLT) retry patterns, and native KRaft Kafka clustering.
-      </p>
-      <p>
-        <code>Java 21</code> • <code>Spring Boot 3.3</code> • <code>Apache Kafka (KRaft)</code> • <code>PostgreSQL 16</code> • <code>Redis 7</code> • <code>Docker Compose</code> • <code>OpenTelemetry</code>
-      </p>
-      <p align="center">
-        <a href="https://github.com/caiovaf/distributed-event-pipeline"><b>Explore Repository & Architecture ➔</b></a>
-      </p>
-    </td>
-  </tr>
-
-  <!-- Row 2: TITAN (Proprietary Enterprise) -->
+  <!-- Row 1: TITAN (Proprietary Enterprise) FIRST -->
   <tr>
     <td colspan="2" valign="top">
       <div align="between">
@@ -96,6 +77,36 @@ To maintain strict enterprise security while fostering open-source development, 
         <code>Java</code> • <code>Spring Boot</code> • <code>Apache Kafka</code> • <code>AWS</code> • <code>PostgreSQL</code> • <code>Docker</code>
       </p>
       <p><i>*Source code and proprietary operational schemas are protected under enterprise NDA.</i></p>
+    </td>
+  </tr>
+
+  <!-- Row 2: Distributed Event Pipeline & Resilient Notification Hub (Core Backend) -->
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚡ Distributed Event Pipeline</h3>
+      <code>Open Source Flagship</code>
+      <p>
+        Event-driven transactional processing engine built with Java 21, Spring Boot 3, and Apache Kafka (KRaft). Features atomic Redis idempotency (`SETNX`) and Dead Letter Topic (DLT) retry routing.
+      </p>
+      <p>
+        <code>Java 21</code> • <code>Spring Boot 3.3</code> • <code>Apache Kafka</code> • <code>Redis 7</code> • <code>PostgreSQL</code>
+      </p>
+      <p align="center">
+        <a href="https://github.com/caiovaf/distributed-event-pipeline"><b>Explore Repository ➔</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔔 Resilient Notification Hub</h3>
+      <code>Open Source Flagship</code>
+      <p>
+        Multi-channel notification engine (Email, SMS, Webhook) engineered with Redis Token Bucket rate limiting (60 req/min) and Resilience4j circuit breaker failover to secondary backup providers.
+      </p>
+      <p>
+        <code>Java 21</code> • <code>Spring Boot 3.3</code> • <code>Resilience4j</code> • <code>Redis Rate Limiter</code> • <code>Docker</code>
+      </p>
+      <p align="center">
+        <a href="https://github.com/caiovaf/resilient-notification-hub"><b>Explore Repository ➔</b></a>
+      </p>
     </td>
   </tr>
 
@@ -155,25 +166,6 @@ To maintain strict enterprise security while fostering open-source development, 
       </p>
       <p align="center">
         <a href="https://github.com/caiovaf/enterprise-rag-pgvector"><b>Explore Repository ➔</b></a>
-      </p>
-    </td>
-  </tr>
-
-  <!-- Row 5: Resilient Notification Hub -->
-  <tr>
-    <td colspan="2" valign="top">
-      <div align="between">
-        <h3>🔔 Resilient Notification Hub</h3>
-        <code>Open Source</code> • <code>High-Availability Dispatcher</code>
-      </div>
-      <p>
-        Multi-channel notification engine (Email, SMS, Push, Webhooks) engineered with Redis Token Bucket rate limiting and Resilience4j circuit breaker failover to secondary hot backups.
-      </p>
-      <p>
-        <code>Java 21</code> • <code>Spring Boot 3.3</code> • <code>Resilience4j</code> • <code>Redis Rate Limiter</code> • <code>AWS SES / Fallback</code> • <code>Docker</code>
-      </p>
-      <p align="center">
-        <a href="https://github.com/caiovaf/resilient-notification-hub"><b>Explore Repository ➔</b></a>
       </p>
     </td>
   </tr>
