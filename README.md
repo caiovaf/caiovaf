@@ -59,7 +59,26 @@ To maintain strict enterprise security while fostering open-source development, 
 ### 🌟 Featured Systems & Projects
 
 <table>
-  <!-- Row 1: TITAN (Proprietary Enterprise) -->
+  <!-- Row 1: Distributed Event Pipeline (OSS Flagship) -->
+  <tr>
+    <td colspan="2" valign="top">
+      <div align="between">
+        <h3>⚡ Distributed Event Pipeline</h3>
+        <code>Open Source Flagship</code> • <code>Java 21 & Apache Kafka</code>
+      </div>
+      <p>
+        Production-grade, event-driven transactional processing engine engineered to process asynchronous orders at scale with zero data loss. Implements atomic idempotency via Redis, Dead Letter Topic (DLT) retry patterns, and native KRaft Kafka clustering.
+      </p>
+      <p>
+        <code>Java 21</code> • <code>Spring Boot 3.3</code> • <code>Apache Kafka (KRaft)</code> • <code>PostgreSQL 16</code> • <code>Redis 7</code> • <code>Docker Compose</code> • <code>OpenTelemetry</code>
+      </p>
+      <p align="center">
+        <a href="https://github.com/caiovaf/distributed-event-pipeline"><b>Explore Repository & Architecture ➔</b></a>
+      </p>
+    </td>
+  </tr>
+
+  <!-- Row 2: TITAN (Proprietary Enterprise) -->
   <tr>
     <td colspan="2" valign="top">
       <div align="between">
@@ -80,7 +99,7 @@ To maintain strict enterprise security while fostering open-source development, 
     </td>
   </tr>
 
-  <!-- Row 2: EVA & FLAP -->
+  <!-- Row 3: EVA & FLAP -->
   <tr>
     <td width="50%" valign="top">
       <h3>🤖 E.V.A — Drive Copilot</h3>
@@ -89,7 +108,7 @@ To maintain strict enterprise security while fostering open-source development, 
         Voice-first intelligent automotive copilot designed to parse natural language intent via LLMs and dispatch real-time actions across navigation (Waze), messaging, and media automations.
       </p>
       <p>
-        <code>Java</code> • <code>Spring Boot</code> • <code>Fastify</code> • <code>LLM Parsing</code> • <code>React</code>
+        <code>TypeScript</code> • <code>Fastify</code> • <code>React</code> • <code>LLM Parsing</code> • <code>ElevenLabs</code>
       </p>
       <p align="center">
         <a href="https://github.com/caiovaf/E.V.A-DriveCopilot"><b>Explore Repository ➔</b></a>
@@ -99,13 +118,13 @@ To maintain strict enterprise security while fostering open-source development, 
       <h3>📋 Flap — Task Flow</h3>
       <code>Open Source</code>
       <p>
-        Modern Kanban task and workflow management suite built for agile teams, featuring real-time status transitions, user permissions, analytics dashboards, and responsive UX.
+        Modern Kanban task and workflow management suite built for agile teams, featuring real-time status transitions, dynamic task routing, analytics dashboards, and responsive UX.
       </p>
       <p>
-        <code>Next.js</code> • <code>React</code> • <code>TypeScript</code> • <code>Tailwind CSS</code> • <code>REST API</code>
+        <code>React 18</code> • <code>Tailwind CSS</code> • <code>Vite</code> • <code>React Router</code> • <code>Lucide</code>
       </p>
       <p align="center">
-        <a href="https://github.com/caiovaf/Task_Manager"><b>Explore Repository ➔</b></a>
+        <a href="https://github.com/caiovaf/flap-task-flow"><b>Explore Repository ➔</b></a>
       </p>
     </td>
   </tr>
