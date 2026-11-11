@@ -194,7 +194,7 @@ To maintain strict enterprise security while fostering open-source development, 
 - 💼 **Available for:** High-impact backend engineering, distributed system design, and AI automation consulting.
 - 🌐 **Live Portfolio:** [caio-portfolio-delta.vercel.app](https://caio-portfolio-delta.vercel.app/)
 - 📧 **Direct Inquiry:** [caiovafwork@gmail.com](mailto:caiovafwork@gmail.com)
-- 📍 **Location:** Aracaju, Brazil *(Available for global remote contracts)*
+- 📍 **Location:** Sergipe, Brazil *(Available for global remote contracts)*
 
 <div align="center">
   <sub>Engineered with precision, reliability, and clear business intent.</sub>
