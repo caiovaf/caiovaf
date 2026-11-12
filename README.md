@@ -64,7 +64,7 @@ To maintain strict enterprise security while fostering open-source development, 
     <td colspan="2" valign="top">
       <div align="between">
         <h3>🛡️ TITAN — Enterprise Core Engine</h3>
-        <code>🔒 Proprietary / Closed-Source</code> • <code>WeHandle Ecosystem</code>
+        <code>🔒 Proprietary / Closed-Source</code>
       </div>
       <p>
         High-throughput, distributed enterprise platform engineered to automate mission-critical business workflows, manage secure multi-tenant data processing, and maintain high availability under production demand.
