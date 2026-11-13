@@ -12,7 +12,7 @@
 
 <!-- Minimalist Compact Nav Bar -->
 <p align="center">
-  <a href="https://caio-portfolio-delta.vercel.app/">🌐 <b>Portfolio</b></a> &nbsp;•&nbsp;
+  <a href="https://caiocodes.com/">🌐 <b>Portfolio</b></a> &nbsp;•&nbsp;
   <a href="https://github.com/caiovwehandle">💼 <b>Enterprise GitHub</b></a> &nbsp;•&nbsp;
   <a href="https://www.linkedin.com/in/caio-vaf/">👔 <b>LinkedIn</b></a> &nbsp;•&nbsp;
   <a href="mailto:caiovafwork@gmail.com">✉️ <b>Email</b></a>
@@ -192,7 +192,7 @@ To maintain strict enterprise security while fostering open-source development, 
 ### 📬 Connect & Collaborate
 
 - 💼 **Available for:** High-impact backend engineering, distributed system design, and AI automation consulting.
-- 🌐 **Live Portfolio:** [caio-portfolio-delta.vercel.app](https://caio-portfolio-delta.vercel.app/)
+- 🌐 **Live Portfolio:** [caiocodes.com](https://caiocodes.com/)
 - 📧 **Direct Inquiry:** [caiovafwork@gmail.com](mailto:caiovafwork@gmail.com)
 - 📍 **Location:** Sergipe, Brazil *(Available for global remote contracts)*
 
