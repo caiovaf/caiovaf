@@ -2,10 +2,6 @@
 
 # Caio Vasconcelos
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=6366F1&center=true&vCenter=true&width=640&lines=Software+Engineer+%40+WeHandle;Distributed+Systems+%26+Backend+Architecture;Java+%7C+Spring+Boot+%7C+AWS+%7C+Apache+Kafka;Building+Production-Ready+Agentic+AI+Flows" alt="Typing SVG" />
-</a>
-
 <p align="center">
   <b>Software Engineer crafting scalable backends, event-driven architectures, and real-world AI automations.</b>
 </p>
