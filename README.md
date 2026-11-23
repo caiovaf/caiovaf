@@ -24,7 +24,7 @@ To maintain strict enterprise security while fostering open-source development, 
 
 | Profile | Focus & Scope |
 | :--- | :--- |
-| **🏢 Enterprise:** [`@caiovwehandle`](https://github.com/caiovwehandle) | **Core production workload at WeHandle.** High-volume daily commits, mission-critical distributed systems, proprietary microservices, and internal architectures. |
+| **🏢 Enterprise:** [`@caiovwehandle`](https://github.com/caiovwehandle) | **Software engineering at WeHandle.** Backend development with Java, Spring Boot, PostgreSQL, and Apache Kafka, including REST APIs, system integrations, business rules, and production support. Corporate repositories are private. |
 | **🚀 Personal Lab:** [`@caiovaf`](https://github.com/caiovaf) | **Engineering laboratory & Open Source.** System design blueprints, proof-of-concept AI agents, experiments, and technical portfolio. |
 
 ---
